@@ -9,7 +9,8 @@ After some improvement, I think this app can be used in Computers of Police Stat
 https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/</br></br>
 <b>Step 4:</b> Run sih1.py file.</br>
 
-For more details and to solve issues Please contact me:</br>
+## Contact
+For more details and to solve issues contact me:</br>
 Gmail : shaktiv@jecjabalpur.ac.in </br>
 Linkedin : https://linkedin.com/in/shaktipro </br>
 
