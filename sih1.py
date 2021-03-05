@@ -9,8 +9,8 @@ import pygame
 import time
 import os
 from itertools import count
-def Hwit_vit():
 
+def Hwit_vit():
     rootH1 = Toplevel()
     rootH1.state('zoomed')
     rootH1.title('वर्चुअल पुलिस स्टेशन1')
